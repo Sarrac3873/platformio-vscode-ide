@@ -623,7 +623,7 @@
   "devDependencies": {
     "@babel/core": "~7.15.0",
     "@types/node": "~12",
-    "@types/vscode": "~1.44.0",
+    "@types/vscode": "~1.93.0",
     "babel-eslint": "~10.1.0",
     "babel-loader": "~8.2.2",
     "babel-plugin-transform-class-properties": "~6.24.1",
