@@ -628,7 +628,7 @@
     "babel-loader": "~8.2.2",
     "babel-plugin-transform-class-properties": "~6.24.1",
     "babel-preset-env": "~1.7.0",
-    "eslint": "~7.32.0",
+    "eslint": "~9.0.0",
     "eslint-import-resolver-webpack": "~0.13.1",
     "eslint-plugin-import": "~2.24.0",
     "prettier": "~2.3.2",
